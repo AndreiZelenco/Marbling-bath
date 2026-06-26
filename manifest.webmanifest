@@ -1,0 +1,16 @@
+{
+  "name": "Marbling Bath",
+  "short_name": "Marbling",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e6d6b3",
+  "theme_color": "#22303f",
+  "icons": [
+    { "src": "./icon-180.png",  "sizes": "180x180",  "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png",  "sizes": "512x512",  "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png",  "sizes": "512x512",  "type": "image/png", "purpose": "maskable" },
+    { "src": "./icon-1024.png", "sizes": "1024x1024","type": "image/png", "purpose": "any" }
+  ]
+}
